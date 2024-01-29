@@ -1,6 +1,6 @@
 ### Olá 👋
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons=true&theme=transparent)
+(https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons=true&theme=transparent)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagalhaesVini&layout=compact&langs_count=7&theme=transparent"/>
 ##
 <div style="display: inline_block"><br>
