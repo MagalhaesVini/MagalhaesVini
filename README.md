@@ -1,4 +1,4 @@
-### 🌟 Bem-vindos ao meu canto digital! 
+### 👨‍💻 Bem-vindos ao meu canto digital! 
 Eu sou viciado em tecnologia e aqui você encontra meu playground de códigos. Dê uma olhada nos projetos, deixe sugestões e bora trocar ideias sobre esse mundo tech que a gente ama! 💻✨
 ##
 <div align="center">
