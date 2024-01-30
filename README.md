@@ -1,4 +1,4 @@
-### Bem-vindo ao meu GitHub! Sou apaixonado por [seus interesses] e estou sempre explorando novas tecnologias. Fique à vontade para explorar meus projetos e contribuir. 👋 👋
+### Bem-vindo ao meu GitHub! Sou apaixonado por adquirir conhecimento e estou sempre explorando novas tecnologias. Fique à vontade para explorar meus projetos e contribuir. 👋
 ##
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons==true&theme=transparent"/>
