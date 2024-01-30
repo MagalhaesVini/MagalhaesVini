@@ -1,4 +1,5 @@
-### E aí, pessoal! 🌟 Bem-vindos ao meu canto digital! Eu sou viciado em tecnologia e aqui você encontra meu playground de códigos. Dê uma olhada nos projetos, deixe sugestões e bora trocar ideias sobre esse mundo tech que a gente ama! 💻✨
+### E aí, pessoal! 🌟 Bem-vindos ao meu canto digital! 
+Eu sou viciado em tecnologia e aqui você encontra meu playground de códigos. Dê uma olhada nos projetos, deixe sugestões e bora trocar ideias sobre esse mundo tech que a gente ama! 💻✨
 ##
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons==true&theme=transparent"/>
