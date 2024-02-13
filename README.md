@@ -1,5 +1,5 @@
-### 👨‍💻 Bem-vindos ao meu canto digital! 🎢
-Eu sou viciado em tecnologia e aqui você encontra meu playground de códigos. Dê uma olhada nos projetos, deixe sugestões e bora trocar ideias sobre esse mundo tech que a gente ama! 💻✨
+### 👨‍💻 Bem-vindo ao meu repositório de projetos!
+Este é o meu espaço dedicado à tecnologia e inovação. Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o progresso no mundo tech. 💻🚀
 ##
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons==true&theme=transparent"/>
