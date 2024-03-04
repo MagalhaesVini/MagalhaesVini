@@ -14,6 +14,8 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
 </div>
 
 ##
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MagalhaesVini&repo=JogoAdivinhacao)](https://github.com/MagalhaesVini/JogoAdivinhacao)
+
 <br/>
 <div align='center'>
   <a href = "mailto:vinizipi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
