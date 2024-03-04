@@ -15,6 +15,7 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
 
 ##
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MagalhaesVini&repo=JogoAdivinhacao)](https://github.com/MagalhaesVini/JogoAdivinhacao)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MagalhaesVini&repo=Lista-Telefonica)](https://github.com/MagalhaesVini/Lista-Telefonica)
 
 <br/>
 <div align='center'>
