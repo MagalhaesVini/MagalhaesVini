@@ -2,8 +2,6 @@
 Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o progresso no mundo tech. 💻🚀
 ##
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons==true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagalhaesVini&layout=compact&langs_count=7&theme=transparent"/>
   <img src="https://myreadme.vercel.app/api/embed/MagalhaesVini?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" theme="transparent"/>
 </div>
 
