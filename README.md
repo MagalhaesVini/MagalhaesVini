@@ -1,5 +1,5 @@
 ### 👨‍💻 Bem-vindo ao meu repositório de projetos!
-Este é o meu espaço dedicado à tecnologia e inovação. Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o progresso no mundo tech. 💻🚀
+Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o progresso no mundo tech. 💻🚀
 ##
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons==true&theme=transparent"/>
