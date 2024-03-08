@@ -5,7 +5,6 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
   <img src="https://myreadme.vercel.app/api/embed/MagalhaesVini?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" theme="transparent"/>
 </div>
 
-##
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MagalhaesVini&repo=JogoAdivinhacao)](https://github.com/MagalhaesVini/JogoAdivinhacao)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MagalhaesVini&repo=Lista-Telefonica)](https://github.com/MagalhaesVini/Lista-Telefonica)
 
