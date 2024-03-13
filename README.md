@@ -16,7 +16,6 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
 
 ##
 
-<br/>
 <div align='center'>
   <a href = "mailto:vinizipi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/magalhaesvinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
