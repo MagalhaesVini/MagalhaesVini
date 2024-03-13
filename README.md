@@ -8,10 +8,10 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
 ##
 
 <div align='center' style="display: inline_block">
-  <img align="right" alt="VM-HTML" height="100" width="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
-  <img align="center" alt="VM-CSS" height="300" width="150" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
-  <img align="center" alt="VM-Js" height="100" width="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
-  <img align="center" alt="VM-React" height="300" width="150" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg">
+  <img align="left" alt="VM-HTML" height="100" width="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
+  <img align="left" alt="VM-CSS" height="300" width="150" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
+  <img align="left" alt="VM-Js" height="100" width="100" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
+  <img align="left" alt="VM-React" height="300" width="150" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg">
 </div>
 
 ##
