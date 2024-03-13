@@ -13,6 +13,7 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
   <img align="left" alt="VM-Js" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
   <img align="left" alt="VM-React" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg">
   <img align="left" alt="VM-React" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg">
+  <img align="left" alt="VM-React" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/npm.svg">
 </div></br>
 
 ##
