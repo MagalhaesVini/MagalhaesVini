@@ -1,4 +1,4 @@
-### 👨‍💻 Bem-vindo ao meu repositório de projetos!
+### 👨‍💻 Bem-vindo ao meu repositório de projetos! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o progresso no mundo tech. 💻🚀
 ##
 <div align="center">
