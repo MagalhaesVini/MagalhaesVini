@@ -8,10 +8,10 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
 ##
 
 <div align='center' style="display: inline_block">
-  <img align="center" alt="VM-Js" height="200" width="200" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
+  <img align="center" alt="VM-Js" height="200" width="50" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
   <img align="center" alt="VM-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="VM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="VM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="VM-HTML" height="200" width="50" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
+  <img align="center" alt="VM-CSS" height="200" width="50" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
 </div>
 
 ##
