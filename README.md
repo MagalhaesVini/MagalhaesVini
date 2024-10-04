@@ -2,8 +2,8 @@
 Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o progresso no mundo tech. 💻🚀
 ##
 <div align="center">
-  <img src="https://myreadme.vercel.app/api/embed/MagalhaesVini?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" theme="transparent"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagalhaesVini&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons=true&theme=transparent)
 </div>
 
 ##
