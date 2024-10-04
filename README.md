@@ -3,6 +3,7 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
 ##
 <div align="center">
   <img src="https://myreadme.vercel.app/api/embed/MagalhaesVini?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" theme="transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagalhaesVini&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
 ##
@@ -22,4 +23,3 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
   <a href = "mailto:vinizipi@gmail.com"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/magalhaesvinicius/" target="_blank"><img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" target="_blank"></a> 
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
