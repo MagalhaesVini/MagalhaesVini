@@ -3,7 +3,7 @@ Explore meus projetos, compartilhe feedback e vamos colaborar para impulsionar o
 ##
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MagalhaesVini&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons=true&theme=transparent)
+  (https://github-readme-stats.vercel.app/api?username=MagalhaesVini&show_icons=true&theme=transparent)
 </div>
 
 ##
